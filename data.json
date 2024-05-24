@@ -1,0 +1,35 @@
+{
+  "hospitals": [
+    {
+        "id":"1",
+      "name": "ABC General Hospital",
+      "patientCount": 120,
+      "location": "123 Main Street"
+    },
+    {
+        "id":"2",
+      "name": "CDE Medical Clinic",
+      "patientCount": 40,
+      "location": "789 Avenue"
+    },
+    {
+        "id":"3",
+      "name": "EFG City Hospital",
+      "patientCount": 54,
+      "location": "965 Streat"
+    },
+    {
+        "id":"4",
+      "name": "New Horizon Hospital",
+      "patientCount": 75,
+      "location": "101 Sunset Boulevard, Metropolis, IL"
+    },
+    {
+        "id":"5",
+      "name": "New Town Hospital",
+      "patientCount": 50,
+      "location": "101 First Street"
+    },
+    {}
+  ]
+}
